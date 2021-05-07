@@ -1,4 +1,4 @@
-#Census of India
+# Census of India
 
 Introduction to Project :-<br>
 •	This project was made as a part of summer institutional training in Chandigarh University.<br>
